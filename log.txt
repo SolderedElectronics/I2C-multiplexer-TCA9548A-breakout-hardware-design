@@ -1,1 +1,69 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_pcb
+	modified:   CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_pro
+	modified:   CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_sch
+	modified:   CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_pcb
+	modified:   CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_pro
+	modified:   CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/I2C_multiplexer_TCA9548A.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/I2C_multiplexer_TCA9548A.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_BOM.csv
+	modified:   OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_gerber.zip
+	modified:   OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_ibom.html
+	modified:   OUTPUTS/V1.1.1/I2C multiplexer TCA9548A.jpg
+	modified:   OUTPUTS/V1.1.1/I2C multiplexer TCA9548A_ibom.html
+	modified:   OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A.pdf
+	modified:   OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_202.8x216.6_20.zip
+	modified:   OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_3D.step
+	modified:   OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main 64eda6f] Updating open source files.
+ 27 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/I2C_multiplexer_TCA9548A.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/I2C_multiplexer_TCA9548A.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/I2C_multiplexer_TCA9548A.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/I2C_multiplexer_TCA9548A.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/I2C_multiplexer_TCA9548A_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C multiplexer TCA9548A.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C multiplexer TCA9548A_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_202.8x216.6_20.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/I2C_multiplexer_TCA9548A_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/I2C-multiplexer-TCA9548A-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub/OUTPUTS/V1.0.0: all files are present, commiting...
+easyC-hub-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub to easyC-hub-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
