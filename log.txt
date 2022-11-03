@@ -141,3 +141,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub to easyC-hub-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 53962d3] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/I2C-multiplexer-TCA9548A-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub/OUTPUTS/V1.0.0: all files are present, commiting...
+easyC-hub-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub to easyC-hub-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
