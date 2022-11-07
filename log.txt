@@ -315,3 +315,56 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main f9a67d4] Updating open source files.
+ 1 file changed, 53 insertions(+)
+https://github.com/SolderedElectronics/I2C-multiplexer-TCA9548A-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/easyC hub/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Fingerprint sensor adapter/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/PMS7003 sensor adapter/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter generic TXB0104 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter I2C TXS0104 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Thermocouple sensor AD8495 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/USB Type A male breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/I2C LCD driver board/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/USB Type A female breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/proto bit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/3.5mm Jack breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/MicroSD breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander PCAL6416A breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Membrane keyboard with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/I2C multiplexer TCA9548A breakout/.git/
