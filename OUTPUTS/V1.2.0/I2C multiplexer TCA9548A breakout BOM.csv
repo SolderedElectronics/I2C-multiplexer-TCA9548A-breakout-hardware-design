@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1","100n","","Soldered footprints:0603C","1",""
+"C2","10u","","Soldered footprints:1206C","1",""
+"DM1","SKU: 700169","","Soldered footprints:PCB","1",""
+"K1,K2,K6,K7,K10,K11,K14,K15,K18,K19","qwiic-SMD","","Soldered footprints:qwiic-connector","10",""
+"K3,K4,K5,K8,K9,K12,K13,K16,K17","HEADER_MALE_4X1","","Soldered footprints:HEADER_MALE_4X1","9",""
+"R1,R2,R3,R4,R5,R6","10k","","Soldered footprints:0603R","6",""
+"U1","TCA9548APWR","","Soldered footprints:TSSOP-24","1",""
